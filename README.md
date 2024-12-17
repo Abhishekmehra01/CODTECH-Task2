@@ -3,7 +3,7 @@
 **Company:** CODTECH IT SOLUTIONS <br>
 **ID:** CT4WD2977 <br>
 **Domain:** Web Development <br>
-**Duration:** 25 June 2024 To 25 July 2024 <br><br>
+**Duration:** 25 June 2024 To 24 August 2024 <br><br>
 
 **Overview of the Project** <br>
 Project: TODO List App <br> <br>
